@@ -36,6 +36,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable + Fuse](https://github.com/alfonsogarciacaro/MyFuseApp) - Simple F# cross-platform mobile app based on [Fuse Tools](https://www.fusetools.com/) quickstart tutorial.
 * [fable-electron](https://github.com/fable-compiler/fable-electron) - Learn how to write a cross-platorm desktop app in F# with Fable and Github Electron.
 * [fable vscode](https://github.com/acormier/vscode-extension-fable-simple) - Basic Visual Studio Code 'Hello Word!' extension.
+* [fable pixi samples](https://github.com/fable-compiler/samples-pixi) - Lots of samples (15+) from basic to advanced to use Pixi.js in Fable 
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -89,6 +90,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
 * [fable-moment-range](https://github.com/DmitryBatalov/fable-import-moment-range) - Fable bindings for momentjs range
 * [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system) - Fable bindings for React Grid System
+* [Fable.Import.Animejs](https://github.com/fable-compiler/fable-import/tree/master/Animejs) - Fable bindings for Animejs
+* [Fable.Import.Pixi](https://github.com/fable-compiler/fable-import/tree/master/Pixi) - Fable bindings for Pixi.js
+* [Fable.Import.Pixi.Particles](https://github.com/fable-compiler/fable-import/tree/master/PixiParticles) - Fable bindings for Pixi.js Particles addon
+* [Fable.Import.Pixi.Sound](https://github.com/fable-compiler/fable-import/tree/master/PixiSound) - Fable bindings for Pixi.js Sound addon
+
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
