@@ -146,6 +146,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling
 * [Payoff charts](http://www.payoffcharts.com/) - Shows you the profit of strategy in the dependency on the underlying movements
 * [Casque Noir](https://www.casquenoir.com) - Web documentary about Haïti environmental issues 
+* [Cap Métiers](https://youtu.be/Ce4219mga2o?t=107) - NW.js Touch Screen based multiplayer serious game
 
 # Who to follow
 
